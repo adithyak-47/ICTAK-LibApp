@@ -1,8 +1,10 @@
-# library-management-ictak-case-study-2-
+# Library Management using EJS.
+#Steps to run
 npm i
 
-
 nodemon app.js
+
+
 
 
 
